@@ -27,7 +27,7 @@ calculate([0, 1, 2, 3, 4, 5, 6, 7, 8])
   'min': [[0, 1, 2], [0, 3, 6], 0],
   'sum': [[9, 12, 15], [3, 12, 21], 36]
 }
-
+```
 🛠️ Technologies Used
 Python 3
 
@@ -40,8 +40,10 @@ Git & GitHub
 🧪 Testing
 The project includes test cases in test_module.py, and they are automatically run via main.py.
 
+
 📬 Author
-Likitha Bhaskar
+
+*Likitha Bhaskar*
 
 This project is part of the freeCodeCamp curriculum.
 
